@@ -5,6 +5,8 @@
 
 ### Este código foi feito para atividade avaliativa de Programação II Java na faculdade.
 
+Foi solicitado o seguinte:
+
 
 Para a atividade mapa da disciplina, analise o estudo de caso de um controle de estoque e desenvolva o programa para solucionar o problema.
 O Gestor da empresa que você trabalha, necessita manter um registro dos projetos de TI. Este controle, atualmente, não existe... as informações e iniciativas estão de forma informal em troca de e-mails e mensagens.
